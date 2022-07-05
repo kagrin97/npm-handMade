@@ -1,0 +1,21 @@
+{
+  "name": "find-decimals",
+  "version": "1.0.4",
+  "description": "Find the prime number and convert it to an array",
+  "main": "index.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kagrin97/npm-handMade"
+  },
+  "keywords": [
+    "test",
+    "first",
+    "module"
+  ],
+  "author": "mingyu-kang",
+  "license": "MIT",
+  "dependencies": {
+    "find-decimals": "^1.0.2"
+  }
+}
